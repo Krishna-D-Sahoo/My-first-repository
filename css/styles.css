@@ -1,0 +1,40 @@
+.title-logo {
+  margin-top: 20px;
+}
+
+.page-heading {
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-title{
+    font-weight: lighter;
+    font-size: 60px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+h2{
+  color: #7d97ad;
+}
+
+.feature_work{
+  float: none;
+  margin-right: 5px;
+  width: calc((300%-10px)/3);
+}
+
+.feature_work:last-of-type{
+  margin-right: 0;
+}
+
+hr{
+  border-width: 0.3em;
+  border-color: #7d97ad;
+}
+
+a{
+  color: #2d3c49;
+}
